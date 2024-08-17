@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679183492138",
+    "project_id": "social-media-narrator",
+    "storage_bucket": "social-media-narrator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679183492138:android:5041e2fe235e4a67130f53",
+        "android_client_info": {
+          "package_name": "com.example.social_media_narrator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqBStdy_Fzp2SJiu_GXopImpcm4P4Oz90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679183492138:android:3436343bb6d01f17130f53",
+        "android_client_info": {
+          "package_name": "np.com.suminmaharjan98"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqBStdy_Fzp2SJiu_GXopImpcm4P4Oz90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
